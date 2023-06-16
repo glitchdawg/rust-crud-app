@@ -1,5 +1,5 @@
 # Rust CRUD Rest Api
-[//]: # this is made by using the blog https://dev.to/francescoxx/rust-crud-rest-api-3n45
+[comment]: <> (this is made by using the blog https://dev.to/francescoxx/rust-crud-rest-api-3n45)
 This uses:
 - rust programming language
 - JSON: to serialise and deserialise data
